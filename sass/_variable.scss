@@ -1,0 +1,14 @@
+:root {
+  --var-color-primary: #34495e;
+  --var-text-color: #fff;
+  --var-h1-font-size: 5rem;
+  --var-h2-font-size: 3.2rem;
+  --var-p-font-size: 1.6rem;
+}
+
+$color-primary: var(--var-color-primary);
+$text-color: var(--var-text-color);
+
+$h1-font-size: var(--var-h1-font-size);
+$h2-font-size: var(--var-h2-font-size);
+$p-font-size: var(--var-p-font-size);
